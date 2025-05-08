@@ -2,7 +2,7 @@
 
 This PowerShell script allows you to automatically send a custom message to all computers within a specific Organizational Unit (OU) in Active Directory.
 
-###How it works:
+### How it works:
 - The script targets the OU named "PC" under the domain "parsa.local".
 - It retrieves all computer names within the specified OU.
 - You are prompted to enter the message you want to send.
