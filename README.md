@@ -12,6 +12,6 @@ This PowerShell script allows you to automatically send a custom message to all 
 - At the end, the script shows the total run time.
 
 > [!NOTE]
-> You need to run this script with sufficient permissions to access Active Directory and to send messages using the msg command.
-> The ActiveDirectory module must be installed and imported.
-> The target computers must have the msg service enabled and allow messages from the sender's account.
+> - You need to run this script with sufficient permissions to access Active Directory and to send messages using the msg command.
+> - The ActiveDirectory module must be installed and imported.
+> - The target computers must have the msg service enabled and allow messages from the sender's account.
